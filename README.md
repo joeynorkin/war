@@ -5,12 +5,12 @@ simulation runs until the game is over, where as game_of_war.rb is like playing
 this very boring card game, but without the thrill of picking of the cards
 following a victory.
 
-To run the simulation, download the directory, and in the directory, enter:
+To run the simulation, download the directory, and in the directory, run:
     
-    ruby war_simulation.rb
+    $ ruby war_simulation.rb
 
-To run the actual game (that is if for some reason you want to play), enter:
+To run the actual game (that is if for some reason you want to play), run:
 
-    ruby game_of_war.rb
+    $ ruby game_of_war.rb
 
 Have fun!
