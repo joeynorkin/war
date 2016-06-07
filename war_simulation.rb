@@ -1,4 +1,4 @@
-# This is a simukation of the card game war between Peter and Jessica
+# This is a simulation of the card game war between Peter and Jessica
 
 require "./war.rb"
 
